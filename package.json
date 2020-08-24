@@ -1,6 +1,6 @@
 {
   "name": "react-native-web-jsonschema-form",
-  "version": "3.0.6",
+  "version": "0.0.1",
   "private": false,
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,11 @@
     "cloc:test": "yarn cloc ./__tests__",
     "cloc:all": "yarn cloc ./"
   },
-  "author": "Gabriel Marques <gabriel@carelulu.com>",
+  "author": "Yury Kurets <yura.kurets@aetsoft.by>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CareLuLu/react-native-web-jsonschema-form"
+    "url": "https://github.com/yurakurets/react-native-web-jsonschema-form"
   },
   "devDependencies": {
     "@babel/cli": "7.10.5",
